@@ -1,2 +1,3 @@
 # JS-MINI-PROJECT
-ITS A MINI PROJECT WHICH I MADE FOR FUN
+its a old mini projects
+
